@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.3.0",
         "illuminate/support": "4.x",
-        "mpdf/mpdf": "5.7.2"
+        "mpdf/mpdf": "dev-master#1627f9e7d2ef0f635a886f611079216ed2929717"
     },
     "autoload": {
         "psr-0": {
